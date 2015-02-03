@@ -16,13 +16,13 @@ Bristol hotel](http://www.code-conf.com/osl15){: .pushbox #osl}
 
 [CoDe STOCKHOLM Conf<br/>
 #CoDeSTO<br/>
-June 2015<br/>
-Venue: TBD](http://www.code-conf.com/sto15){: .pushbox #sto}
+June 2nd 2015<br/>
+City Conference Centre Stockholm](http://www.code-conf.com/sto15){: .pushbox #sto}
 
 [CoDe Copenhagen Conf<br/>
 #CoDeCPH<br/>
-October 22nd 2015<br/>
-Marriott Hotel](http://www.code-conf.com/cph15){: .pushbox #cph}
+October 7th 2015<br/>
+Scandic Copenhagen](http://www.code-conf.com/cph15){: .pushbox #cph}
 
 [CoDe:U Meetup<br/>
 Git Flow - A CoDe Approach<br/>
@@ -35,4 +35,3 @@ Jan 19th 2015, Hørsholm](http://www.meetup.com/code-u/events/219062705/){: .pus
 [CoDe:U Meetup<br/>
 Docker in a development scenario<br/>
 Feb 3rd 2015, Århus](http://www.meetup.com/code-u/events/219713474/){: .pushbox }
-
