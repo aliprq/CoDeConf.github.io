@@ -17,7 +17,7 @@ Bristol hotel](http://www.code-conf.com/osl15){: .pushbox #osl}
 [CoDe STOCKHOLM Conf<br/>
 #CoDeSTO<br/>
 June 2nd 2015<br/>
-City Conference Centre Stockholm](http://www.code-conf.com/sto15){: .pushbox #sto}
+City Conference Centre](http://www.code-conf.com/sto15){: .pushbox #sto}
 
 [CoDe Copenhagen Conf<br/>
 #CoDeCPH<br/>
@@ -25,13 +25,16 @@ October 7th 2015<br/>
 Scandic Copenhagen](http://www.code-conf.com/cph15){: .pushbox #cph}
 
 [CoDe:U Meetup<br/>
-Git Flow - A CoDe Approach<br/>
-Jan 13th 2015, Copenhagen](http://www.meetup.com/code-u/events/219172902/){: .pushbox }
-
-[CoDe:U Meetup<br/>
-Coping with software regulatory rules<br/>
-Jan 19th 2015, Hørsholm](http://www.meetup.com/code-u/events/219062705/){: .pushbox }
-
-[CoDe:U Meetup<br/>
 Docker in a development scenario<br/>
-Feb 3rd 2015, Århus](http://www.meetup.com/code-u/events/219713474/){: .pushbox }
+Feb 11th 2015<br/>
+Oslo](http://www.meetup.com/code-u/events/219713474/){: .pushbox }
+
+[JCICPH<br/>
+Jenkins CI CodeCamp<br/>
+August 2015<br/>
+Copenhagen](http://www.meetup.com/code-u/events/219062705/){: .pushbox }
+
+[JCICPH<br/>
+Jenkins CI Conference<br/>
+August 2015<br/>
+Copenhagen](http://www.meetup.com/DevOps-Norway/events/220027412/){: .pushbox }
