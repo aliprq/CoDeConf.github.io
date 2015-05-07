@@ -137,6 +137,21 @@ a.pushbox:hover {
 
 }
 
+.factbox {
+  background: #336699;
+  max-width: 200px;
+  width: 100%;
+  color: #FFFFFF;
+  padding: 12px;
+  font-size: 110%;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 8px;
+
+
+
+}
+
 
 
 
